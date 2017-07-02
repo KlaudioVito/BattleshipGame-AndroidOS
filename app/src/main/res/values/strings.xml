@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battleship Game</string>
+    <string name="quitString">Quit</string>
+    <string name="resetString">Reset</string>
+    <string name="hintString">Hint</string>
+    <string name="difficultyString">Choose Difficulty</string>
+    <string name="Hits">Hits: 0</string>
+    <string name="Misses">Misses: 0</string>
+    <string name="Shots">Shots: 0</string>
+    <string name="Percentage">Hit%: 0.0%</string>
+</resources>
